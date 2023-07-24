@@ -108,6 +108,15 @@
 }
 
 @media (max-width:575.99px) {
+    .custom__content-cards {
+        justify-content: center;
+        align-items: center;
+
+    }
+    .fashion__content {
+        row-gap: 20px;
+        justify-content: center;
+    }
     .content-card__img img {
         width: 100%;
     }
